@@ -32,8 +32,8 @@ Run it
 ```bash
 docker run -d -p 9898:9898 \
   -v /var/run/docker.sock:/var/run/docker.sock \
-  --name docker-ui \
-  otothea/docker-ui
+  --name docker-api \
+  egreen/docker-api
 ```
 
 Run it with authentication (see [environment variables](#environment-variables))
@@ -46,7 +46,7 @@ docker run -d -p 9898:9898 \
   -e DOCKER_UI_USER=username \
   -e DOCKER_UI_PASS=password \
   -e DOCKER_UI_SECRET=supersecretsessionkey \
-  otothea/docker-ui
+  egreen/docker-api
 ```
 
 ### Production (Node)
