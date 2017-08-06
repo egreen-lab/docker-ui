@@ -15,7 +15,7 @@ This project is also meant to serve as a working example of how to build a full-
 - MobX
 - FuseBox
 
-[![Docker UI Screenshot](https://raw.githubusercontent.com/otothea/docker-ui/master/screenshot.png)](https://raw.githubusercontent.com/otothea/docker-ui/master/screenshot.png)
+[![Docker UI Screenshot](https://raw.githubusercontent.com/egreen-lab//docker-ui/master/screenshot.png)](https://raw.githubusercontent.com/egreen-lab//docker-ui/master/screenshot.png)
 
 ## Usage
 
